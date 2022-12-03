@@ -54,10 +54,3 @@
 <br clear="all" /><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajarshiKGP&theme=dracula"/>
 </details>
-
-<details id=4 open>
-<summary><h3>Coding Activity Stats in the Local Machine of the Past 7 days</h3></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajarshiKGP&theme=maroongold" alt="RajarshiKGP" /></p>
-<br clear="all" />
-</details>
-<hr>
