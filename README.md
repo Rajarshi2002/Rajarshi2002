@@ -48,16 +48,16 @@
 
 <details id=3 open>
 <summary><h3>Stats About My GitHub Account</h3></summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajarshiKGP&show_icons=true&locale=en&layout=compact&theme=aura" alt="pr-rockz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajarshiKGP&show_icons=true&locale=en&layout=compact&theme=aura" alt="RajarshiKGP" />
 <br clear="all" /><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RajarshiKGP&show_icons=true&locale=en&theme=radical" alt="pr-rockz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RajarshiKGP&show_icons=true&locale=en&theme=radical" alt="RajarshiKGP" />
 <br clear="all" /><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajarshiKGP&theme=dracula"/>
 </details>
 
 <details id=4 open>
 <summary><h3>Coding Activity Stats in the Local Machine of the Past 7 days</h3></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajarshiKGP&theme=maroongold" alt="pr-rockz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajarshiKGP&theme=maroongold" alt="RajarshiKGP" /></p>
 <br clear="all" />
 </details>
 <hr>
