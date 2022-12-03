@@ -21,3 +21,43 @@
 
 - ☕️ Loves to have a conversation over a Cup of Coffee
 </details>
+
+<details id=2 open>
+<summary><h3 align="left">Languages and Tools:</h3></summary>
+<ul>
+  <li>Bash Shell</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Python
+    <ul>
+      <li>PyGame</li>
+    </ul>
+  </li>
+  <li>Javascript
+    <ul>
+      <li>React</li>
+    </ul>
+  </li>
+</ul>
+</details>
+
+<hr>
+
+<details id=3 open>
+<summary><h3>Stats About My GitHub Account</h3></summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr-rockz&show_icons=true&locale=en&layout=compact&theme=aura" alt="pr-rockz" />
+<br clear="all" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pr-rockz&show_icons=true&locale=en&theme=radical" alt="pr-rockz" />
+<br clear="all" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-rockz&theme=dracula"/>
+</details>
+
+<details id=4 open>
+<summary><h3>Coding Activity Stats in the Local Machine of the Past 7 days</h3></summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pr_rockz&theme=maroongold" alt="pr-rockz" /></p>
+<br clear="all" />
+</details>
+<hr>
