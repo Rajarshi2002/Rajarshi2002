@@ -8,7 +8,7 @@
 <details id=1 open>
 <summary><h3>Overview</h3></summary>
 
-<img align="right" alt="coding" width="225" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-mobile.mp4">
+<img align="right" alt="coding" width="225" src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif">
 <img align="right" alt="coding" width="225" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
