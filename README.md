@@ -33,12 +33,18 @@
   <li>CSS</li>
   <li>Python
     <ul>
-      <li>PyGame</li>
+      <li>TensorFlow</li>
+      <li>scikit-learn</li>
+      <li>numPy</li>
+      <li>Matplotlib</li>
+      <li>etc.</li>
     </ul>
   </li>
   <li>Javascript
     <ul>
+      <li>Vanilla Js</li>
       <li>React</li>
+      <li>NodeJs</li>
     </ul>
   </li>
 </ul>
