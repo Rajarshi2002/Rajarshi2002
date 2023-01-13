@@ -18,8 +18,6 @@
 - 📝 Here is my <a href="https://www.linkedin.com/in/rajarshi-mandal-a423ab243/">LinkedIn profile</a>
 
 - 💬 Ask me about **Anything**
-
-- ☕️ Loves to have a conversation over a Cup of Coffee
 </details>
 
 <details id=2 open>
