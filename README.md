@@ -1,7 +1,7 @@
 <h1 align="Center">Hi 👋, I'm Rajarshi Mandal</h1>
 <h3 align="center">A Coding Enthusiast</h3>
 <h5 align="left">Nice to see you!!</h5>
-<h5 align="left">Welcome to my GitHub profile!<br>I'm a Passionate Programmer from <strong>West Bengal</strong> currently living in  <img alt="coding" width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png"> IIT Kharagpur</h5>
+<h5 align="left">Welcome to my GitHub profile!<br>I'm a Passionate Programmer from <strong>West Bengal</strong> currently studying in  <img alt="coding" width="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png"> IIT Kharagpur</h5>
 
 <hr>
 
